@@ -1,0 +1,249 @@
+section {
+    background-position: center!important;r;
+    background-repeat: no-repeat!important;;
+    background-size: cover!important;
+}
+.blog .navbar-default {
+    background-color: rgba(34, 34, 34, 0.6);
+}
+.navbar .sf-menu li:hover, .navbar .sf-menu li.sfHover {
+    background-color: #110e21;
+}
+a {
+    color: #110e21;
+}
+a:hover, a:focus, a:active, a.active {
+    color: #110e21;
+}
+.theme-slider-button {
+    background: rgba(154, 205, 50, 0.69);
+}
+.NovelLite_slider .slider_overlay {
+      background-image: none;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.text-primary {
+    color: #110e21;
+}
+.home_blog_content .post:hover .post_content_bottom{
+    background:#110e21;
+}
+.img-circle {
+    border-radius: 0;
+}
+.btn-xl {
+ border-color: 110e21;
+    background-color: 110e21;
+}
+
+.team-member img{
+	-webkit-transition: all ease-in-out .2s;
+transition: all ease-in-out .2s;
+}
+.team-member img:hover{
+border-color:#110e21;
+	-webkit-transition: all ease-in-out .2s;
+transition: all ease-in-out .2s;
+}
+.testimonial-wrapper{
+position:relative;
+}
+.testimonial-wrapper:before{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+     transition: all 0.25s ease-in-out;
+    -webkit-transition: all 0.25s ease-in-out;
+    -moz-transition: all 0.25s ease-in-out;
+    z-index: 0;
+    background: rgba(44, 62, 80, 0.6);
+}
+.content-bar .post .post_title a:hover {
+    color: #110e21;
+	}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus, .price-class .featured .header-package, .price-post:hover .plan-select, .navbar-shrink.navbar-default .navbar-toggle{
+background-color:#110e21;
+}
+.navbar-default .navbar-toggle, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    border-color: #110e21;
+    background-color: #110e21;
+}
+.navbar-shrink.navbar-default .navbar-toggle{
+border-color:#110e21;
+}
+.paging li a.current {
+    background: #F8F8F8;
+    border: 1px solid #110e21;
+}
+.paging li {
+    display: inline;
+}
+.paging li a {
+    display: inline;
+    padding: 5px 10px;
+    border: 1px solid #110e21;
+    margin-left: 2px;
+    background: #fff;
+}
+.paging {
+    float: right;
+}
+.contact_section{
+position:relative;
+    background: url(images/main.jpg) fixed;
+	}
+	.testimonial-wrapper {
+    background: url(images/main.jpg) no-repeat fixed center;
+	}
+	.contact_section .leadform-show-form {
+       position: relative;
+}
+.contact_section:before{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+     transition: all 0.25s ease-in-out;
+    -webkit-transition: all 0.25s ease-in-out;
+    -moz-transition: all 0.25s ease-in-out;
+    z-index: 0;
+    background: rgba(44, 62, 80, 0.6);
+}
+.contact_section .leadform-show-form input[type="submit"]{
+background:#110e21;
+border-color:#110e21;
+}
+.content-bar .post .post_meta .post_comment a:hover, #commentform a{
+color:#110e21;
+}
+#commentform input#submit, ol.commentlist li.comment .reply a {
+    background: #110e21;
+}
+#commentform input#submit:hover {
+    background: #19751f;
+}
+#commentform input#submit, ol.commentlist li.comment .comment-author .avatar{
+border-color: #19751f;
+}
+#move-to-top{
+    background: #110e21;
+	}
+	.woocommerce span.onsale, .woocommerce-page span.onsale {
+      background-color: #110e21;
+}
+.woocommerce #content input.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-page #content input.button, .woocommerce-page #respond input#submit, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce #content input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce-page #respond input#submit.alt, .woocommerce-page a.button.alt, .woocommerce-page button.button.alt, .woocommerce-page input.button.alt, .woocommerce ul.products li.product a.button, .woocommerce.archive ul.products li.product a.button, .woocommerce-page.archive ul.products li.product a.button {
+    background-color: #110e21;
+}
+.main-slider-button :hover  a{
+    color:#C8A567;
+}
+.theme-slider-button{
+    color:#C8A567;
+	background: none;
+    padding: 0; 
+     border: none; 
+}
+.main-slider-button  {
+    cursor: pointer;
+        -webkit-transition: all ease-in-out .2s;
+    transition: all ease-in-out .2s;
+}
+.main-slider-button  {
+  margin:25px 5px;
+  background-color: transparent;
+  border: 1px solid #fff;
+  border-radius: 1px;
+  color: rgba(255, 255, 255, 1);
+  cursor: pointer;
+  padding: 20px 88px;
+  display: inline-block;
+  letter-spacing: 1px;
+  position: relative;
+
+}
+.main-slider-button:hover{
+opacity:.8;
+}
+
+.theme-slider-button{
+    font-family: open sans;
+    position: absolute;
+    z-index: 99;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-transform: uppercase;
+    font-size: 13px;
+    color:#fff;
+}
+.main-slider-button :hover{
+  color: #ffffff;
+  background:none;
+}
+.main-slider-button :hover:before{
+  left: 10px;
+  right: 10px;
+  background-color: rgba(255, 255, 255, 0.1);
+  opacity: 1;
+}
+.main-slider-button-two{
+    margin: 25px 5px;
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 1px;
+    cursor: pointer;
+    padding: 20px 88px;
+    display: inline-block;
+    letter-spacing: 1px;
+    position: relative;
+    
+}
+.main-slider-button-two .theme-slider-button {
+color:#110e21;
+    transition: all ease-in-out .2s;
+}
+.main-slider-button-two:hover {
+    background: #fff;
+    transition: all ease-in-out .2s;
+    color: #110e21;
+    opacity: .8;
+}
+.main-slider-button-two .theme-slider-button:hover{
+background:transparent;
+    transition: all ease-in-out .2s;
+}
+
+@-webkit-keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+@media (min-width: 992px){
+#parallax_move .layer {
+    height: 100vh!important;
+}
+.header-content-wrap {
+   height: 100vh;
+}
+}
